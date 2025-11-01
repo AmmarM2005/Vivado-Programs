@@ -1,0 +1,7 @@
+Running: xsim.dir/or_gate_gatelevel_behav/xsimk.exe -simmode gui -wdb or_gate_gatelevel_behav.wdb -simrunnum 0 -socket 53034
+Design successfully loaded
+Design Loading Memory Usage: 11000 KB (Peak: 11000 KB)
+Design Loading CPU Usage: 30 ms
+Simulation completed
+Simulation Memory Usage: 11984 KB (Peak: 11984 KB)
+Simulation CPU Usage: 124 ms
