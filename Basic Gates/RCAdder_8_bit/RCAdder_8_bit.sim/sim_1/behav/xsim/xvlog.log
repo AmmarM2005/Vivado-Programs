@@ -1,5 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Ammar/Vivado Programs/Basic Gates/RCAdder_8_bit/RCAdder_8_bit.srcs/sources_1/new/Adder_8bit.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module FA
-INFO: [VRFC 10-311] analyzing module adder_8bit
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Ammar/Vivado Programs/Basic Gates/RCAdder_8_bit/RCAdder_8_bit.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

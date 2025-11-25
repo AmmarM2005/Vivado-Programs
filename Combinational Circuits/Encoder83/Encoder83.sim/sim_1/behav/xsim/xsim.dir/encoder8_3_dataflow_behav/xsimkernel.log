@@ -1,7 +1,0 @@
-Running: xsim.dir/encoder8_3_dataflow_behav/xsimk.exe -simmode gui -wdb encoder8_3_dataflow_behav.wdb -simrunnum 0 -socket 64831
-Design successfully loaded
-Design Loading Memory Usage: 8256 KB (Peak: 8256 KB)
-Design Loading CPU Usage: 93 ms
-Simulation completed
-Simulation Memory Usage: 10136 KB (Peak: 10136 KB)
-Simulation CPU Usage: 155 ms
